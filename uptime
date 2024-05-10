@@ -10,7 +10,7 @@ showuptime(){
 	cat << EOF
 
  		-------------
-	this machine has been up for ${up}
+    this machine has been up for ${up}
 	it has been running since ${since}
 		-------------
 EOF
